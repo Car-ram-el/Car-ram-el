@@ -1,6 +1,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 # 😃 About Me
-Web developer, continuously learning and building cool stuff!
+Software developer, continuously learning and building cool stuff!
 
 ## 🌐 Socials
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sasster) 
