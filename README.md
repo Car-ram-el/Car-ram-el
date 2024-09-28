@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I'm a passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=car-ram-el&label=Profile%20views&color=0e75b6&style=flat" alt="car-ram-el" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Car-ram-el&icon=5&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m working on **projects I believe will help everyone**
 
