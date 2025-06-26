@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">I'm a passionate software engineer</h3>
-
-[![](https://visitcount.itsvg.in/api?id=Car-ram-el&icon=5&color=0)](https://visitcount.itsvg.in)
+<!-- <h3 align="center">I'm a passionate software engineer</h3> -->
 
 - 🔭 I’m working on **projects I believe will help everyone**
 
